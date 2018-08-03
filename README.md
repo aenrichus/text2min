@@ -8,6 +8,7 @@ This function takes in a list or column of free text and converts that text into
 ## Planned Upgrades
 
 * fix the Known Issues below
+* add a parameter that allows for selection of minutes or hours
 * convert this into an R package for distribution
 
 ## Known Issues
